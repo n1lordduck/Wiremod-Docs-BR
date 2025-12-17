@@ -82,7 +82,7 @@ Como o projeto é focado apenas em documentação, commits simples e diretos sã
 
 ## 🧠 Diretrizes gerais
 
-- Linguagem clara e direta + Linguagem imperativa
+- Linguagem clara e direta, estabelecer leitura com o leitor não é recomendado
 - Evite termos desnecessariamente técnicos sem explicação, ensine conceitos do zero, **NUNCA** assuma que todos tem o mesmo conhecimento que você.
 - Prefira exemplos práticos mas também apresente uma quantidade justificada de teoria, procure balancear
 - Explique *por que* algo funciona, não só *como*, focando em passar conhecimneto técnico, o leitor não deve ser dependende dos tutoriais.
