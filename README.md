@@ -67,6 +67,7 @@ Use títulos de commit claros e objetivos, caso for remover ou modificar uma pá
 |--------|-----|-----------|
 | Add | Adicionar conteúdo novo | Criar páginas novas na wiki, documentar componentes, conceitos ou funcionalidades que ainda não existem |
 | Remove | Remover conteúdo | Excluir páginas obsoletas, duplicadas ou informações incorretas/desatualizadas |
+| fix | Consertos | erros de digitação, links e imagens incorretas, consertos em geral 
 | Modify | Modificar conteúdo existente | Clarificar explicações, corrigir informações, melhorar exemplos e organização do texto |
 | Chore | Tarefas chatas | Ajustar formatação, corrigir typos, melhorar legibilidade e organização visual |
 
