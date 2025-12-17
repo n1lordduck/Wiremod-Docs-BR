@@ -2,11 +2,13 @@
 
 > Documentação brasileira do **Wiremod** feita por brasileiros, para brasileiros.
 
-Discord do projeto: https://discord.gg/rkAAnUDAGz
+📢 Discord do projeto: https://discord.gg/rkAAnUDAGz (Pode usar para pedir ajuda e coisas do tipo)
 
-Github do wiremod: https://github.com/wiremod/wire/tree/master
+📍 Github do wiremod: https://github.com/wiremod/wire/tree/master
 
-Workshop do wiremod: https://steamcommunity.com/workshop/filedetails/?id=160250458
+🔨 Workshop do wiremod: https://steamcommunity.com/workshop/filedetails/?id=160250458
+
+📌 **Começe a aprender [Aqui!](https://github.com/n1lordduck/Wiremod-Docs-BR/wiki)**
 
 ## 📌 Sobre o projeto
 
